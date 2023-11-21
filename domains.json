@@ -85,6 +85,6 @@
       "ipv6": "::ffff:bc72:6003",
       "is_ir": true,
       "protocol_version": "TLSv1.3"
-    },
+    }
      ]
 }
